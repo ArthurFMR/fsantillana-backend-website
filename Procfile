@@ -1,1 +1,1 @@
-web: gunicorn fsantillana-rest-api-website.wsgi
+web: gunicorn backend.wsgi
